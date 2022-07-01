@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace phyohtetaung\phpmvc;
 
-use app\core\middlewares\BaseMiddleware;
+use phyohtetaung\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {

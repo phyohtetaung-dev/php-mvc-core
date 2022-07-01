@@ -2,7 +2,7 @@
     "name": "phyohtetaung/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "Phyohtetaung\\PhpMvcCore\\": "src/"
+            "phyohtetaung\\phpmvc\\": "."
         }
     },
     "authors": [

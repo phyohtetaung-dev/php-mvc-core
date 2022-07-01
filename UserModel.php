@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace phyohtetaung\phpmvc;
 
-use app\core\db\DbModel;
+use phyohtetaung\phpmvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

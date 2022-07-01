@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace phyohtetaung\phpmvc;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use phyohtetaung\phpmvc\db\Database;
+use phyohtetaung\phpmvc\db\DbModel;
 
 class Application
 {

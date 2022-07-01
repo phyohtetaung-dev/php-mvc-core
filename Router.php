@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace phyohtetaung\phpmvc;
 
-use app\core\exception\NotFoundException;
+use phyohtetaung\phpmvc\exception\NotFoundException;
 
 class Router
 {

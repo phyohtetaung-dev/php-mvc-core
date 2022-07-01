@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace phyohtetaung\phpmvc\form;
 
-use app\core\Model;
+use phyohtetaung\phpmvc\Model;
 
 class Form
 {
