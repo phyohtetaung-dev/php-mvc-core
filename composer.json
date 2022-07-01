@@ -1,0 +1,15 @@
+{
+    "name": "phyohtetaung/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Phyohtetaung\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "phyohtetaung-dev",
+            "email": "phyohtetaung.dev.29@gmail.com"
+        }
+    ],
+    "require": {}
+}
